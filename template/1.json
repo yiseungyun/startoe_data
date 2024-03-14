@@ -1,0 +1,44 @@
+{
+  "data": [{
+    "id": 1,
+    "kor": "이 사진은 ~에서 찍혔다고 생각합니다",
+    "eng": "I think this picture was taken + 전치사 + 장소"
+  }, {
+    "id": 2,
+    "kor": "사진에는 ~명의 사람들이 있습니다",
+    "eng": "There are 인원수 people in this picture"
+  }, {
+    "id": 3,
+    "kor": "~인 것 같습니다",
+    "eng": "It seems like + 주어 + 동사"
+  }, {
+    "id": 4,
+    "kor": "주어가 ~하는 중입니다",
+    "eng": "주어 + be동사(is/are) + 동사ing"
+  }, {
+    "id": 5,
+    "kor": "그것은 ~에 개최된다",
+    "eng": "It will take place + 전치사 + 명사"
+  }, {
+    "id": 6,
+    "kor": "그것은 ~에서 열린다",
+    "eng": "It will be held + 전치사 + 명사"
+  }, {
+    "id": 7,
+    "kor": "~가 ~시에 예정되어있다",
+    "eng": "명사 is scheduled at 시간"
+  }, {
+    "id": 8,
+    "kor": "~가 ~시에 있을 것이다",
+    "eng": "There will be 명사 at 시간"
+  }, {
+    "id": 9,
+    "kor": "~이 ~에 대해 연설/발표/강의를 할 것이다",
+    "eng": "사람 will give a speech/presentation/lecture on 주제"
+  }, {
+    "id": 10,
+    "kor": "~가 ~에 의해 진행될 것이다",
+    "eng": "주제 will be conducted/given by 사람"
+  }
+  ]
+}

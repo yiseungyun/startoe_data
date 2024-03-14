@@ -1,0 +1,44 @@
+{
+  "data": [{
+    "id": 1,
+    "kor": "이 일정은 6월 20일 힐튼 호텔에서 개최될 예정입니다",
+    "eng": "It will be held on June 20th at Hilton Hotel"
+  }, {
+    "id": 2,
+    "kor": "이 일정은 오전 9시에 시작할 것입니다",
+    "eng": "I will start at 9:00AM"
+  }, {
+    "id": 3,
+    "kor": "이 일정은 오후 5시에 끝날 것입니다",
+    "eng": "It will finish at 5:00PM"
+  }, {
+    "id": 4,
+    "kor": "아니요 유감스럽게도 잘못 알고 게십니다",
+    "eng": "No, I'm afraid that you have the wrong information"
+  }, {
+    "id": 5,
+    "kor": "등록 및 커피 타임은 오전 9시에 시작될 것입니다",
+    "eng": "The registration and coffee session will start at 9:00AM"
+  }, {
+    "id": 6,
+    "kor": "당신은 10시에 아메리칸 에어 105기를 타고 샌프란시스코에서 출발할 것입니다",
+    "eng": "You will depart from San Francisco at 10AM on American Air 105"
+  }, {
+    "id": 7,
+    "kor": "당신은 로스엔젤레스에 오후 3시에 도착할 것입니다",
+    "eng": "You will arrive in Los Angeles at 3PM"
+  }, {
+    "id": 8,
+    "kor": "당신은 대한항공 105기를 탈 것입니다",
+    "eng": "You will take Korean Air 105"
+  }, {
+    "id": 9,
+    "kor": "당신은 글렌 호텔에 머무를 것입니다",
+    "eng": "You will stay at Glen Hotel"
+  }, {
+    "id": 10,
+    "kor": "당신은 점심 식사를 할 것입니다",
+    "eng": "You will have lunch"
+  }
+  ]
+}
