@@ -1,0 +1,44 @@
+{
+  "data": [{
+    "id": 1,
+    "kor": "시간과 장소에 상관없이 일할 수 있습니다",
+    "eng": "I can work regardless of time and location"
+  }, {
+    "id": 2,
+    "kor": "인터넷에서 더 저렴한 가격에 책을 구매할 수 있습니다",
+    "eng": "I can buy books at a cheaper price on the Internet"
+  }, {
+    "id": 3,
+    "kor": "직장 동료들과 짧은 시간에 맣은 의사소통을 할 수 있습니다",
+    "eng": "I can communicate a lot with my coworkers in a short time"
+  }, {
+    "id": 4,
+    "kor": "편안한 분위기에서 공부할 수 있습니다",
+    "eng": "I can study in a comfortable atmosphere"
+  }, {
+    "id": 5,
+    "kor": "매장에 방문하면 옷을 입어볼 수 있습니다",
+    "eng": "I can try on clothes if I go to the store"
+  }, {
+    "id": 6,
+    "kor": "업무환경을 미리 경험해볼 수 있습니다",
+    "eng": "I can experience working environment in advance"
+  }, {
+    "id": 7,
+    "kor": "옷을 교환하기 더 쉽습니다",
+    "eng": "It is easier to exchange clothes"
+  }, {
+    "id": 8,
+    "kor": "친구와 함께 공부하면 집중하기 어렵습니다",
+    "eng": "It is difficult to concentrate if I study with my friends"
+  }, {
+    "id": 9,
+    "kor": "식당에서 먹는 것보다 집에서 요리하는 것이 더 저렴합니다",
+    "eng": "It is cheaper to cook at home than eating at a restaurant"
+  }, {
+    "id": 10,
+    "kor": "서점에 가지 않아도 되기 때문에 책을 구매하기 더 편리합니다",
+    "eng": "It is more convenient to buy books because I don't have to go to a bookstore"
+  }
+  ]
+}
