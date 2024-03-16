@@ -1,42 +1,52 @@
 {
   "data": [{
     "id": 1,
+    "category": "part5",
     "kor": "그들은 새로운 것을 배울 수 있다",
     "eng": "They can learn new things"
   }, {
     "id": 2,
+    "category": "part5",
     "kor": "그들은 새로운 사람을 만나고 인맥을 넓힐 수 있다",
     "eng": "They can meet new people and expand their network"
   }, {
     "id": 3,
+    "category": "part5",
     "kor": "그들은 많은 것을 경험하고 견문을 넓힐 수 있다",
     "eng": "They can have a lot of experience and broaden their perspective"
   }, {
     "id": 4,
+    "category": "part5",
     "kor": "그들은 좋은 결정을 하지 못하는데 왜냐하면 그들은 아직 충분히 성숙하지 못했기 때문이다",
     "eng": "They can't make good decisions because they are not mature enough"
   }, {
     "id": 5,
+    "category": "part5",
     "kor": "그들은 집중을 못하게 될 것이다",
     "eng": "They will be distracted"
   }, {
     "id": 6,
+    "category": "part5",
     "kor": "그들은 그들의 학업/업무에 집중할 수 없다",
     "eng": "They can't focus on thier studies/work"
   }, {
     "id": 7,
+    "category": "part5",
     "kor": "그들은 학교에서 좋은 성적을 받을 수 없다",
     "eng": "They can't get good grades at school"
   }, {
     "id": 8,
+    "category": "part5",
     "kor": "그들은 학업이 뒤쳐질 것이다",
     "eng": "They will fall behind in class"
   }, {
     "id": 9,
+    "category": "part5",
     "kor": "그들은 효율적으로 일할 수 있다",
     "eng": "They can't work efficiently"
   }, {
     "id": 10,
+    "category": "part5",
     "kor": "그들은 돈을 절약할 수 있다",
     "eng": "They can save money"
   }

@@ -1,42 +1,52 @@
 {
   "data": [{
     "id": 1,
+    "category": "part2",
     "kor": "그는 발표를 하는 중이다",
     "eng": "He is giving a presentation"
   }, {
     "id": 2,
+    "category": "part2",
     "kor": "타자를 치는 중이다",
     "eng": "He is typing on a keyboard"
   }, {
     "id": 3,
+    "category": "part2",
     "kor": "복사를 하는 중이다",
     "eng": "She is making a copy"
   }, {
     "id": 4,
+    "category": "part2",
     "kor": "계단을 올라가는(내려가는) 중이다",
     "eng": "She is going up(down) the stairs"
   }, {
     "id": 5,
+    "category": "part2",
     "kor": "서류에 뭔가를 작성하는 중이다",
     "eng": "He is writing something on a document"
   }, {
     "id": 6,
+    "category": "part2",
     "kor": "서류를 읽는 중이다",
     "eng": "He is reading a document"
   }, {
     "id": 7,
+    "category": "part2",
     "kor": "통화를 하는 중이다",
     "eng": "They are talking on the phone"
   }, {
     "id": 8,
+    "category": "part2",
     "kor": "회의를 하는 중이다",
     "eng": "They are having a meeting"
   }, {
     "id": 9,
+    "category": "part2",
     "kor": "사과 한 개를 봉투에 넣고 있다",
     "eng": "She is putting an apple into a bag"
   }, {
     "id": 10,
+    "category": "part2",
     "kor": "신용카드를 건네고 있다",
     "eng": "She is handing over a credit card"
   }
