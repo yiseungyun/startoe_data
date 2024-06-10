@@ -2,7 +2,7 @@
   "data": [{
     "id": 1,
     "category": "part2",
-    "kor": "그는 발표를 하는 중이다",
+    "kor": "발표를 하는 중이다",
     "eng": "He is giving a presentation"
   }, {
     "id": 2,
@@ -49,6 +49,5 @@
     "category": "part2",
     "kor": "신용카드를 건네고 있다",
     "eng": "She is handing over a credit card"
-  }
-  ]
+  }]
 }

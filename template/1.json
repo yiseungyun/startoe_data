@@ -2,52 +2,52 @@
   "data": [{
     "id": 1,
     "category": "template",
-    "kor": "이 사진은 ~에서 찍혔다고 생각합니다",
+    "kor": "이 사진은 (장소)에서 찍혔다고 생각한다",
     "eng": "I think this picture was taken + 전치사 + 장소"
   }, {
     "id": 2,
     "category": "template",
-    "kor": "사진에는 ~명의 사람들이 있습니다",
-    "eng": "There are 인원수 people in this picture"
+    "kor": "사진에는 (인원 수)명의 사람들이 있다",
+    "eng": "There are 인원 수 people in this picture"
   }, {
     "id": 3,
     "category": "template",
-    "kor": "~인 것 같습니다",
+    "kor": "~인 것 같다",
     "eng": "It seems like + 주어 + 동사"
   }, {
     "id": 4,
     "category": "template",
-    "kor": "주어가 ~하는 중입니다",
-    "eng": "주어 + be동사(is/are) + 동사ing"
+    "kor": "(주어)가 ~하는 중이다",
+    "eng": "주어 + is/are + 동사ing"
   }, {
     "id": 5,
     "category": "template",
-    "kor": "그것은 ~에 개최된다",
+    "kor": "그것은 (명사)에 개최된다",
     "eng": "It will take place + 전치사 + 명사"
   }, {
     "id": 6,
     "category": "template",
-    "kor": "그것은 ~에서 열린다",
+    "kor": "그것은 (명사)에서 열린다",
     "eng": "It will be held + 전치사 + 명사"
   }, {
     "id": 7,
     "category": "template",
-    "kor": "~가 ~시에 예정되어있다",
+    "kor": "(명사)가 (시간)에 예정되어있다",
     "eng": "명사 is scheduled at 시간"
   }, {
     "id": 8,
     "category": "template",
-    "kor": "~가 ~시에 있을 것이다",
+    "kor": "(명사)가 (시간)에 있을 것이다",
     "eng": "There will be 명사 at 시간"
   }, {
     "id": 9,
     "category": "template",
-    "kor": "~이 ~에 대해 연설/발표/강의를 할 것이다",
+    "kor": "(사람)이 (주제)에 대해 연설/발표/강의를 할 것이다",
     "eng": "사람 will give a speech/presentation/lecture on 주제"
   }, {
     "id": 10,
     "category": "template",
-    "kor": "~가 ~에 의해 진행될 것이다",
+    "kor": "(주제)가 (사람)에 의해 진행될 것이다",
     "eng": "주제 will be conducted/given by 사람"
   }
   ]
