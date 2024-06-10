@@ -1,0 +1,53 @@
+{
+  "data": [{
+    "id": 11,
+    "category": "part2",
+    "kor": "상자를 나르는 중이다",
+    "eng": "He is carrying a box"
+  }, {
+    "id": 12,
+    "category": "part2",
+    "kor": "쇼핑카트를 밀고 있다",
+    "eng": "He is pushing a shopping cart"
+  }, {
+    "id": 13,
+    "category": "part2",
+    "kor": "계산대에 서있다",
+    "eng": "He is standing at a checkout counter"
+  }, {
+    "id": 14,
+    "category": "part2",
+    "kor": "물건을 받고 있다",
+    "eng": "She is receiving an item"
+  }, {
+    "id": 15,
+    "category": "part2",
+    "kor": "쇼핑을 하며 돌아다니는 중이다",
+    "eng": "They are shopping around"
+  }, {
+    "id": 16,
+    "category": "part2",
+    "kor": "줄을 서서 기다리는 중이다",
+    "eng": "They are waiting in line"
+  }, {
+    "id": 17,
+    "category": "part2",
+    "kor": "사진을 찍고 있다",
+    "eng": "She is taking a picture"
+  }, {
+    "id": 18,
+    "category": "part2",
+    "kor": "녹색 신호를 기다리는 중이다",
+    "eng": "She is waiting for a green light"
+  }, {
+    "id": 19,
+    "category": "part2",
+    "kor": "유모차를 밀고 있다",
+    "eng": "She is pushing a baby stroller"
+  }, {
+    "id": 20,
+    "category": "part2",
+    "kor": "스쿠터를 타고 있다",
+    "eng": "He is riding a scooter"
+  }]
+}

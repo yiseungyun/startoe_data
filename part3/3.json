@@ -1,0 +1,53 @@
+{
+  "data": [{
+    "id": 21,
+    "category": "part3",
+    "kor": "이것은 더 싸서 돈을 절약할 수 있다",
+    "eng": "It is cheaper, so I can save money"
+  }, {
+    "id": 22,
+    "category": "part3",
+    "kor": "가격이 저렴하다",
+    "eng": "The price is reasonable"
+  }, {
+    "id": 23,
+    "category": "part3",
+    "kor": "이것은 더 빨라서 시간을 절약할 수 있다",
+    "eng": "It's faster, so I can save time"
+  }, {
+    "id": 24,
+    "category": "part3",
+    "kor": "나는 친구들에게 많은 유용한 정보를 얻을 수 있다",
+    "eng": "I can get a lot of useful information from my friends"
+  }, {
+    "id": 25,
+    "category": "part3",
+    "kor": "나는 인터넷에서 많은 유용한 정보를 얻을 수 있다",
+    "eng": "I can get a lot of useful information on the Internet"
+  }, {
+    "id": 26,
+    "category": "part3",
+    "kor": "이것은 더 믿을만해서 정보가 더 신뢰가 간다",
+    "eng": "It's more reliable, so the information is more trustworthy"
+  }, {
+    "id": 27,
+    "category": "part3",
+    "kor": "나는 정보를 언제 어디서나 스마트폰으로 얻을 수 있다",
+    "eng": "I can get information anytime anywhere on my smartphone"
+  }, {
+    "id": 28,
+    "category": "part3",
+    "kor": "이것은 더 개인적이고 더 밀접한 인간관계를 쌓을 수 있다",
+    "eng": "It's more personal, and builds a closer relationship"
+  }, {
+    "id": 29,
+    "category": "part3",
+    "kor": "이것은 오해를 덜 불러일으킨다",
+    "eng": "It causes less misunderstanding"
+  }, {
+    "id": 30,
+    "category": "part3",
+    "kor": "이것은 내가 가장 좋아하는 일이다",
+    "eng": "It's my favorite thing to do"
+  }]
+}

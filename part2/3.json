@@ -1,0 +1,53 @@
+{
+  "data": [{
+    "id": 21,
+    "category": "part2",
+    "kor": "가방에서 뭔가를 찾는 중이다",
+    "eng": "He is looking for something in a bag"
+  }, {
+    "id": 22,
+    "category": "part2",
+    "kor": "악기를 연주하는 중이다",
+    "eng": "They are playing musical instruments"
+  }, {
+    "id": 23,
+    "category": "part2",
+    "kor": "길을 건너는 중이다",
+    "eng": "They are crossing a road"
+  }, {
+    "id": 24,
+    "category": "part2",
+    "kor": "인도를 걸어가는 중이다",
+    "eng": "They are walking on the sidewalk"
+  }, {
+    "id": 25,
+    "category": "part2",
+    "kor": "메뉴를 읽는 중이다",
+    "eng": "She is reading a menu"
+  }, {
+    "id": 26,
+    "category": "part2",
+    "kor": "주문을 받는 중이다(하는 중이다)",
+    "eng": "She is taking(placing) an order"
+  }, {
+    "id": 27,
+    "category": "part2",
+    "kor": "머그잔을 들고 있다",
+    "eng": "She is holding a mug"
+  }, {
+    "id": 28,
+    "category": "part2",
+    "kor": "남자에게 메뉴를 보여주다",
+    "eng": "He is showing a menu to man"
+  }, {
+    "id": 29,
+    "category": "part2",
+    "kor": "물을 따르고 있다",
+    "eng": "She is pouring water"
+  }, {
+    "id": 30,
+    "category": "part2",
+    "kor": "음식을 서빙하고 있다",
+    "eng": "She is serving food"
+  }]
+}

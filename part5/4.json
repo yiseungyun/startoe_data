@@ -1,0 +1,53 @@
+{
+  "data": [{
+    "id": 31,
+    "category": "part5",
+    "kor": "나는 즉각적인 답변을 받을 수 있다",
+    "eng": "I can get responses right away"
+  }, {
+    "id": 32,
+    "category": "part5",
+    "kor": "나는 화자의 감정을 더 정확하게 이해할 수 있다",
+    "eng": "I can understand the feeling of the speaker more accurately"
+  }, {
+    "id": 33,
+    "category": "part5",
+    "kor": "그들은 좋은 분위기를 만들 수 있다",
+    "eng": "They can make a friendly atmosphere"
+  }, {
+    "id": 34,
+    "category": "part5",
+    "kor": "그들은 다른 사람들과 더 잘 소통할 수 있다",
+    "eng": "They can communicate with others better"
+  }, {
+    "id": 35,
+    "category": "part5",
+    "kor": "그들은 좋은 평판을 가질 수 있다",
+    "eng": "They can have a good reputation"
+  }, {
+    "id": 36,
+    "category": "part5",
+    "kor": "그들은 매우 영향력 있을 수 있다",
+    "eng": "They can be very influenced"
+  }, {
+    "id": 37,
+    "category": "part5",
+    "kor": "그들은 다른 사람들은 동기부여 해줄 수 있다",
+    "eng": "They can motivate others"
+  }, {
+    "id": 38,
+    "category": "part5",
+    "kor": "모든 것이 급변하고 경쟁이 치열하다",
+    "eng": "Everything is always changing and there is a lot of competition"
+  }, {
+    "id": 39,
+    "category": "part5",
+    "kor": "그들은 많은 도전과 어려움을 직면하게 된다",
+    "eng": "They face a lot of challenges and difficulties"
+  }, {
+    "id": 40,
+    "category": "part5",
+    "kor": "그들은 많은 경험/지식을 가지고 있다",
+    "eng": "They have a lot of experience/knowledge"
+  }]
+}

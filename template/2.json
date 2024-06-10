@@ -1,0 +1,18 @@
+{
+  "data": [{
+    "id": 11,
+    "category": "template",
+    "kor": "(주어)는 ~ 할 수 있다",
+    "eng": "주어 + can + 동사"
+  }, {
+    "id": 12,
+    "category": "template",
+    "kor": "~하는 것이 (형용사)하다",
+    "eng": "It is + 형용사 + to + 동사"
+  }, {
+    "id": 13,
+    "category": "template",
+    "kor": "~에 (명사)가 있다",
+    "eng": "There is/are + 명사"
+  }]
+}

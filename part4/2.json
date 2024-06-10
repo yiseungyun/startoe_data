@@ -1,0 +1,53 @@
+{
+  "data": [{
+    "id": 11,
+    "category": "part4",
+    "kor": "당신은 회의를 할 것이다",
+    "eng": "You will have a meeting"
+  }, {
+    "id": 12,
+    "category": "part4",
+    "kor": "그는 연설을 할 것이다",
+    "eng": "He will give a speech"
+  }, {
+    "id": 13,
+    "category": "part4",
+    "kor": "그가 투어를 진행할 것이다",
+    "eng": "He will lead a tour"
+  }, {
+    "id": 14,
+    "category": "part4",
+    "kor": "회의를 하기로 했으나 취소되었다",
+    "eng": "There was supposed to be a meeting, but it has been canceled"
+  }, {
+    "id": 15,
+    "category": "part4",
+    "kor": "금요일로 스케줄이 변경되었다",
+    "eng": "It has been rescheduled to Friday"
+  }, {
+    "id": 16,
+    "category": "part4",
+    "kor": "그는 캘리포니아 대학교에서 2013년에 영문과 학사를 취득했다",
+    "eng": "He got a bachelor's degree in English Literature from Califonia University in 2013"
+  }, {
+    "id": 17,
+    "category": "part4",
+    "kor": "2015년에서부터 2017년까지 그녀는 재스퍼 패션 잡지사에서 이사로 일했다",
+    "eng": "From 2015 to 2017, she worked at Jasper Fashion Magazine as a director"
+  }, {
+    "id": 18,
+    "category": "part4",
+    "kor": "2017년부터 지금까지, 그녀는 토론토 패션 잡지사에서 편집장으로 일해오고 있다",
+    "eng": "From 2017 up to now, she has worked at Toronto Fashion Magazine as a chief director"
+  }, {
+    "id": 19,
+    "category": "part4",
+    "kor": "그는 스페인어를 유창하게 구사한다",
+    "eng": "He's fluent in Spanish"
+  }, {
+    "id": 20,
+    "category": "part4",
+    "kor": "그녀는 자격증이 있다",
+    "eng": "She has a certificate"
+  }]
+}

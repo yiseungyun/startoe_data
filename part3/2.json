@@ -1,0 +1,53 @@
+{
+  "data": [{
+    "id": 11,
+    "category": "part3",
+    "kor": "외국어를 공부하는 것은 대학생들에게 매우 중요하다",
+    "eng": "It is very important for university students to study a foreign language"
+  }, {
+    "id": 12,
+    "category": "part3",
+    "kor": "누군가와 함께 운동하는 것이 혼자 운동하는 것에 비해 더 즐겁다",
+    "eng": "It is more fun to work out with somebody compared to exercising alone"
+  }, {
+    "id": 13,
+    "category": "part3",
+    "kor": "과거에 비해서 현재는 취업이 더 어렵다",
+    "eng": "It is more difficult to get a job now compared to the past"
+  }, {
+    "id": 14,
+    "category": "part3",
+    "kor": "우리 도시에는 야외 활동을 위한 장소가 많다",
+    "eng": "There are many places for outdoor activities in my city"
+  }, {
+    "id": 15,
+    "category": "part3",
+    "kor": "외국어를 배울 수 있는 어학원이 없다",
+    "eng": "There is no language school where I can learn a foreign language"
+  }, {
+    "id": 16,
+    "category": "part3",
+    "kor": "제 고향에는 유명한 식당과 관광지가 많다",
+    "eng": "There are many famous restaurants and tourist spots in my hometown"
+  }, {
+    "id": 17,
+    "category": "part3",
+    "kor": "백화점에는 샤널이나 롤렉스 같은 명품 브랜드가 많다",
+    "eng": "There are many luxurious brands in a department store such as Chanel and Rolex"
+  }, {
+    "id": 18,
+    "category": "part3",
+    "kor": "백화점에는 많은 종류의 브랜드가 있다",
+    "eng": "There are many kind of brands in a department store"
+  }, {
+    "id": 19,
+    "category": "part3",
+    "kor": "쇼핑을 하기에 편리하다",
+    "eng": "It is convenient to shop"
+  }, {
+    "id": 20,
+    "category": "part3",
+    "kor": "이것은 나의 스트레스를 풀어준다",
+    "eng": "It relieves my stress"
+  }]
+}

@@ -1,0 +1,53 @@
+{
+  "data": [{
+    "id": 21,
+    "category": "part5",
+    "kor": "그들은 더 편안함을 느낀다",
+    "eng": "They feel more comfortable"
+  }, {
+    "id": 22,
+    "category": "part5",
+    "kor": "이것은 재밌고 즐거움을 준다",
+    "eng": "It's fun and entertaining"
+  }, {
+    "id": 23,
+    "category": "part5",
+    "kor": "그들은 정보를 얻고 다른 사람과 공유할 수 있다",
+    "eng": "They can get information and share it with other people"
+  }, {
+    "id": 24,
+    "category": "part5",
+    "kor": "더 가족처럼 느낀다",
+    "eng": "It feels more like a family"
+  }, {
+    "id": 25,
+    "category": "part5",
+    "kor": "그들은 많은 유용한/최신 정보를 얻을 수 있다",
+    "eng": "They can get a lot of useful/latest information on the Internet"
+  }, {
+    "id": 26,
+    "category": "part5",
+    "kor": "그들은 스마트폰으로 언제 어디서나 친구들과 소통할 수 있다",
+    "eng": "They can communicate with their friends anytime on their smartphones"
+  }, {
+    "id": 27,
+    "category": "part5",
+    "kor": "인터넷에는 많은 부정확한 정보가 있어서 믿을만하지 않다",
+    "eng": "There is a lot of inaccurate information on the Internet so it's not reliable"
+  }, {
+    "id": 28,
+    "category": "part5",
+    "kor": "이것은 학생들에게 매우 집중을 분산시키는 것이라 학생들은 공부에 집중할 수 없다",
+    "eng": "It is very distracting for student so student can't focus on their studies/work"
+  }, {
+    "id": 29,
+    "category": "part5",
+    "kor": "돈 낭비다",
+    "eng": "It's a waste of money"
+  }, {
+    "id": 30,
+    "category": "part5",
+    "kor": "너무 지나치게 비싸다",
+    "eng": "It's too expensive"
+  }]
+}

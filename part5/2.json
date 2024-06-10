@@ -1,0 +1,54 @@
+{
+  "data": [{
+    "id": 11,
+    "category": "part5",
+    "kor": "생활비가 너무 비싸다",
+    "eng": "The cost of living is too high"
+  }, {
+    "id": 12,
+    "category": "part5",
+    "kor": "그들은 먹고 살기가 힘들다",
+    "eng": "They can't make a living"
+  }, {
+    "id": 13,
+    "category": "part5",
+    "kor": "나는 높은 급여를 받을 수 있다",
+    "eng": "I can get a high salary"
+  }, {
+    "id": 14,
+    "category": "part5",
+    "kor": "그것의 가격이 너무 비싸다",
+    "eng": "The cost of that is too expensive"
+  }, {
+    "id": 15,
+    "category": "part5",
+    "kor": "이것은 돈 낭비다",
+    "eng": "It's a waste of money"
+  }, {
+    "id": 16,
+    "category": "part5",
+    "kor": "그것은 살을 더 낫게 만들어주기 때문에 좋은 투자이다",
+    "eng": "It's a good investment because it makes lives better"
+  }, {
+    "id": 17,
+    "category": "part5",
+    "kor": "그들은 더 잘 집중할 수 있다",
+    "eng": "They can focus better"
+  }, {
+    "id": 18,
+    "category": "part5",
+    "kor": "그들은 다른 사람에게 방해 받지 않을 것이다",
+    "eng": "They will not be distacted by others"
+  }, {
+    "id": 19,
+    "category": "part5",
+    "kor": "그들은 그들의 스케줄을 정할 수 있다",
+    "eng": "They can set their own schedule"
+  }, {
+    "id": 20,
+    "category": "part5",
+    "kor": "그들은 더 자유로울 수 있다",
+    "eng": "They can have more freedom"
+  }
+  ]
+}
